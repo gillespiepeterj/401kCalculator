@@ -3,8 +3,7 @@
 // Author      : Peter Gillespie
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Basic 401k and savings calculator. Currently for single filers only. Applies to 2017 rules.
-// Max personal contribution is $18,000 per year and max total contribution is $54,000 per year. For informational purposes only.
+// Description : Basic 401k and savings calculator. For informational purposes only.
 // This does not in any way constitute as financial advice.
 //============================================================================
 
